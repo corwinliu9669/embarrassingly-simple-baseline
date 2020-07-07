@@ -3,7 +3,7 @@ from utils import *
 import torch
 import torch.nn as nn
 import sys
-from resnet_drop import resnet12
+from resnet12 import resnet12
 import torchvision
 from torch.optim import SGD
 from tqdm import tqdm
